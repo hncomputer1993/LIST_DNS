@@ -1,0 +1,78 @@
+# DNS đi Mỹ
+204.106.240.53
+35.242.175.203
+#Google DNS
+8.8.8.8
+8.8.4.4
+2001:4860:4860::8888
+2001:4860:4860::8844
+https://dns.google/dns-query
+tls://dns.google
+#Cloudflare DNS
+1.1.1.1
+1.0.0.1
+2606:4700:4700::1111
+2606:4700:4700::1001
+https://dns.cloudflare.com/dns-query
+tls://1dot1dot1dot1.cloudflare-dns.com
+#AdGuard DNS
+94.140.14.14
+94.140.15.15
+2a10:50c0::ad1:ff
+2a10:50c0::ad2:ff
+https://dns.adguard-dns.com/dns-query
+tls://dns.adguard-dns.com
+quic://dns.adguard-dns.com
+#Quad9 DNS
+9.9.9.9
+149.112.112.112
+2620:fe::fe
+2620:fe::fe:9
+https://dns.quad9.net/dns-query
+https://dns10.quad9.net/dns-query
+tls://dns.quad9.net
+#Freenom World
+80.80.80.80
+80.80.81.81
+#SafeSurfer DNS
+104.155.237.225
+104.197.28.121
+# DNS Ali
+223.5.5.5
+223.6.6.6
+2400:3200::1
+2400:3200:baba::1
+https://dns.alidns.com/dns-query
+tls://dns.alidns.com
+quic://dns.alidns.com:853
+# DNS FPT
+118.69.70.66
+210.245.0.10
+210.245.0.131
+210.245.31.220
+210.245.31.221
+210.245.33.106
+# DNS VIETTEL
+203.113.131.1
+203.113.131.2
+203.113.131.5
+203.113.131.6
+203.113.188.1
+203.113.188.2
+203.113.188.3
+203.113.188.6
+203.113.188.8
+2402:800:20ff:1111::1
+2402:800:20ff:2222::1
+2402:800:20ff:3333::1
+2402:800:20ff:6666::1
+2402:800:20ff:5555::1
+# VIETTEL ADD BY HNC
+115.79.214.147
+27.74.241.41
+115.73.220.183
+171.249.182.80
+27.64.208.189
+171.224.241.161
+# TIEN PHAT TECHNOLOGY CORPORATION
+103.141.176.228
